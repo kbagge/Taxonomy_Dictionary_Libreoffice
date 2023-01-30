@@ -1,0 +1,17 @@
+Taxonomy Dictionary for Libreoffice 4.0+.
+
+Version 1.0.3, updated on January 28, 2023.
+
+Contains the spelling of all taxa enlisted in:
+LPSN
+ICTV
+Mycobank
+Zoobank
+World Flora Online
+Catalogue of Life
+GBIF backbone
+
+The dictionary is licensed under a GPL3.0 license, a copy of this license should be distributed with this dictionary.
+
+For further information please see:
+https://github.com/kbagge/taxonomy_dictionary
