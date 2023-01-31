@@ -2,7 +2,7 @@
 ## Libreoffice extension
 
 This repository contains the [Libreoffice extension](https://extensions.libreoffice.org/en/extensions/show/27369) for [The Taxonomy Dictionary](https://github.com/kbagge/taxonomy_dictionary).
-For further specification on sources and compilation of the dictionary, please see the Taxonomy Dictionary repository.
+For further specification on sources and compilation of the dictionary, please see the [Taxonomy Dictionary repository](https://github.com/kbagge/taxonomy_dictionary).
 
 ### Installation:
 - Download the extension from the [Libreoffice extension page](https://extensions.libreoffice.org/en/extensions/show/27369).
